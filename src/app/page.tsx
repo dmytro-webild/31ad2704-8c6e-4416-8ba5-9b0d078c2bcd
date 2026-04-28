@@ -60,13 +60,13 @@ export default function LandingPage() {
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/friendly-local-cafe-owner-looking-confid-1777417925906-58dda8da.png"},
         {
           name: "Thomas V.",          handle: "Construction Bâtir",          testimonial: "Une visibilité pro qui nous apporte des devis qualifiés chaque semaine.",          rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/construction-business-manager-confident--1777417934540-dc041622.png"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/construction-business-manager-confident--1777417934540-dc041622.png?_wi=1"},
         {
           name: "Claire L.",          handle: "Atelier Couture",          testimonial: "Rapidité et efficacité, le service client est tout simplement génial.",          rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/woman-salon-manager-smiling-clean-profes-1777417942416-3b96764c.png"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/woman-salon-manager-smiling-clean-profes-1777417942416-3b96764c.png?_wi=1"},
         {
           name: "Paul D.",          handle: "Nettoyage Expert",          testimonial: "Un investissement rentabilisé en moins de deux mois grâce au SEO local.",          rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/local-service-store-owner-friendly-smile-1777417953402-af81d48e.png"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/local-service-store-owner-friendly-smile-1777417953402-af81d48e.png?_wi=1"},
       ]}
       buttons={[
         {
@@ -229,11 +229,11 @@ export default function LandingPage() {
         {
           id: "t2",          title: "Approche humaine",          quote: "Enfin une agence qui comprend les petits commerces locaux.",          name: "Thomas V.",          role: "Gérant",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/friendly-local-cafe-owner-looking-confid-1777418025122-ab83028a.png"},
         {
-          id: "t3",          title: "Résultats concrets",          quote: "Mes appels ont doublé en un mois. Incroyable travail.",          name: "Claire L.",          role: "Directrice",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/construction-business-manager-confident--1777417934540-dc041622.png"},
+          id: "t3",          title: "Résultats concrets",          quote: "Mes appels ont doublé en un mois. Incroyable travail.",          name: "Claire L.",          role: "Directrice",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/construction-business-manager-confident--1777417934540-dc041622.png?_wi=2"},
         {
-          id: "t4",          title: "Très efficace",          quote: "Professionnel, rapide, et abordable. Le combo parfait.",          name: "Paul D.",          role: "Entrepreneur",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/woman-salon-manager-smiling-clean-profes-1777417942416-3b96764c.png"},
+          id: "t4",          title: "Très efficace",          quote: "Professionnel, rapide, et abordable. Le combo parfait.",          name: "Paul D.",          role: "Entrepreneur",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/woman-salon-manager-smiling-clean-profes-1777417942416-3b96764c.png?_wi=2"},
         {
-          id: "t5",          title: "Recommandé à 100%",          quote: "Un site qui enfin nous ressemble.",          name: "Sophie M.",          role: "Boutiquière",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/local-service-store-owner-friendly-smile-1777417953402-af81d48e.png"},
+          id: "t5",          title: "Recommandé à 100%",          quote: "Un site qui enfin nous ressemble.",          name: "Sophie M.",          role: "Boutiquière",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/local-service-store-owner-friendly-smile-1777417953402-af81d48e.png?_wi=2"},
       ]}
       title="Ils nous font confiance"
       description="Des partenaires locaux satisfaits par notre expertise web."
