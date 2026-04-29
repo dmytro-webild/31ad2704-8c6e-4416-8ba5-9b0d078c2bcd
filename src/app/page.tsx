@@ -229,7 +229,7 @@ export default function LandingPage() {
         {
           id: "t2",          title: "Approche humaine",          quote: "Enfin une agence qui comprend les petits commerces locaux.",          name: "Thomas V.",          role: "Gérant",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777470899740-i5j8xq5z.png"},
         {
-          id: "t3",          title: "Résultats concrets",          quote: "Mes appels ont doublé en un mois. Incroyable travail.",          name: "Claire L.",          role: "Directrice",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/construction-business-manager-confident--1777417934540-dc041622.png?_wi=2"},
+          id: "t3",          title: "Résultats concrets",          quote: "Mes appels ont doublé en un mois. Incroyable travail.",          name: "Claire L.",          role: "Directrice",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777471539507-hyw29wee.png"},
         {
           id: "t4",          title: "Très efficace",          quote: "Professionnel, rapide, et abordable. Le combo parfait.",          name: "Paul D.",          role: "Entrepreneur",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/woman-salon-manager-smiling-clean-profes-1777417942416-3b96764c.png?_wi=2"},
         {
