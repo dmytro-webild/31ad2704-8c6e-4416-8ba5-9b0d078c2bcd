@@ -70,7 +70,7 @@ export default function LandingPage() {
       ]}
       buttons={[
         {
-          text: "Obtenir une démo gratuite",          href: "#contact"},
+          text: "Obtenir ma démo gratuite",          href: "#contact"},
       ]}
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/modern-creative-agency-hero-scene-featur-1777417881205-ca329e2c.png"
       avatars={[
