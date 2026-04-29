@@ -167,7 +167,7 @@ export default function LandingPage() {
               text: "Demander une consultation",              href: "#contact"},
           ],
         },
-      ]}
+      ],
       title="Nos services de création"
       description="Des forfaits clairs, sans coûts cachés et adaptés à vos besoins de croissance."
     />
@@ -267,9 +267,10 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterLogoEmphasis
+      logoText="FVM Créations"
       columns={[
         {
-          title: "Navigation",          items: [
+          items: [
             {
               label: "Accueil",              href: "#"},
             {
@@ -279,7 +280,7 @@ export default function LandingPage() {
           ],
         },
         {
-          title: "Légal",          items: [
+          items: [
             {
               label: "Privacy Policy",              href: "#"},
             {
@@ -287,7 +288,6 @@ export default function LandingPage() {
           ],
         },
       ]}
-      logoText="FVM Créations"
     />
   </div>
       </ReactLenis>
