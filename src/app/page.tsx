@@ -233,7 +233,7 @@ export default function LandingPage() {
         {
           id: "t4",          title: "Très efficace",          quote: "Professionnel, rapide, et abordable. Le combo parfait.",          name: "Claire L ",          role: "Atelier couture ",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777471707933-aee0f7v6.png"},
         {
-          id: "t5",          title: "Recommandé à 100%",          quote: "Un site qui enfin nous ressemble.",          name: "Paul D.",          role: "Boutiquière",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/local-service-store-owner-friendly-smile-1777417953402-af81d48e.png?_wi=2"},
+          id: "t5",          title: "Recommandé à 100%",          quote: "Un site qui enfin nous ressemble.",          name: "Paul D.",          role: "Nettoyage Expert ",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/local-service-store-owner-friendly-smile-1777417953402-af81d48e.png?_wi=2"},
       ]}
       title="Ils nous font confiance"
       description="Des partenaires locaux satisfaits par notre expertise web."
