@@ -56,7 +56,7 @@ export default function LandingPage() {
           name: "Marc L.",          handle: "Restaurant La Table",          testimonial: "Mon site ne générait rien avant FVM. Maintenant, les réservations arrivent tous les jours !",          rating: 5,
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/professional-portrait-of-a-local-busines-1777417917863-667aacaa.png"},
         {
-          name: "Jean  ",          handle: "Salon Coiffure Chic",          testimonial: "Le design est magnifique et mes clientes adorent la simplicité pour prendre rendez-vous.",          rating: 5,
+          name: "Jean  ",          handle: "S",          testimonial: "Le design est magnifique et mes clientes adorent la simplicité pour prendre rendez-vous.",          rating: 5,
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/friendly-local-cafe-owner-looking-confid-1777417925906-58dda8da.png"},
         {
           name: "Thomas V.",          handle: "Construction Bâtir",          testimonial: "Une visibilité pro qui nous apporte des devis qualifiés chaque semaine.",          rating: 5,
