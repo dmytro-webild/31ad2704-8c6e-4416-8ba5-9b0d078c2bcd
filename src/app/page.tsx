@@ -129,7 +129,7 @@ export default function LandingPage() {
         {
           title: "Optimisation Mobile",          description: "La majorité de vos clients vous cherchent sur leur téléphone.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/modern-construction-company-website-inte-1777417900202-1fec7b5e.png"},
         {
-          title: "Génération de leads",          description: "Des formulaires conçus pour transformer le visiteur en client.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/stylish-salon-and-spa-website-interface--1777417909315-680b9cf8.png"},
+          title: "Génération de leads",          description: "Des formulaires conçus pour transformer le visiteur en client.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777469771967-hkk211aw.png"},
       ]}
       title="Votre solution simple pour croître"
       description="Nous éliminons la complexité technique pour que vous puissiez vous concentrer sur votre métier tout en gagnant des parts de marché en ligne."
