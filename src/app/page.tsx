@@ -147,7 +147,7 @@ export default function LandingPage() {
             "Design moderne",            "Optimisation SEO locale",            "Mobile responsive",            "Contact direct"],
           buttons: [
             {
-              text: "Choisir",              href: "#contact"},
+              text: "Demander une consultation",              href: "#contact"},
           ],
         },
         {
@@ -155,7 +155,7 @@ export default function LandingPage() {
             "Modernisation UI",            "Vitesse optimisée",            "Audit SEO rapide",            "Support 30 jours"],
           buttons: [
             {
-              text: "Choisir",              href: "#contact"},
+              text: "Demander une consultation",              href: "#contact"},
           ],
         },
         {
@@ -163,7 +163,7 @@ export default function LandingPage() {
             "Gestion hébergement",            "Mises à jour",            "Suivi performances",            "Stratégie leads"],
           buttons: [
             {
-              text: "Choisir",              href: "#contact"},
+              text: "Demander une consultation",              href: "#contact"},
           ],
         },
       ]}
