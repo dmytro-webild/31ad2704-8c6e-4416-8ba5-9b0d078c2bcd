@@ -186,7 +186,7 @@ export default function LandingPage() {
         {
           id: "item3",          name: "Salon Beauté Chic",          price: "En ligne",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/stylish-salon-and-spa-website-interface--1777417980532-70a97211.png"},
         {
-          id: "item4",          name: "Garage Automobile Moderne",          price: "En ligne",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/professional-local-restaurant-website-de-1777417991062-0cf83e51.png"},
+          id: "item4",          name: "Garage Automobile Moderne",          price: "En ligne",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777466977443-9siims7t.png"},
         {
           id: "item5",          name: "Services Nettoyage",          price: "En ligne",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/modern-construction-company-website-inte-1777418000044-946537cd.png"},
         {
