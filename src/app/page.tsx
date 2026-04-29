@@ -4,6 +4,7 @@ import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import ReactLenis from "lenis/react";
 import AboutMetric from '@/components/sections/about/AboutMetric';
 import ContactText from '@/components/sections/contact/ContactText';
+import ContactCenter from '@/components/sections/contact/ContactCenter';
 import FeatureCardSix from '@/components/sections/feature/FeatureCardSix';
 import FooterLogoEmphasis from '@/components/sections/footer/FooterLogoEmphasis';
 import HeroBillboardTestimonial from '@/components/sections/hero/HeroBillboardTestimonial';
@@ -253,6 +254,17 @@ export default function LandingPage() {
     />
   </div>
 
+  <div id="contact-form" data-section="contact-form">
+      <ContactCenter
+        tag="Contact"
+        title="Contactez-nous"
+        description="Laissez-nous vos coordonnées pour que nous puissions vous recontacter."
+        background={{ variant: "animated-grid" }}
+        useInvertedBackground={false}
+        onSubmit={(email) => console.log("Form submitted with:", email)}
+      />
+  </div>
+
   <div id="footer" data-section="footer">
       <FooterLogoEmphasis
       columns={[
@@ -281,4 +293,9 @@ export default function LandingPage() {
       </ReactLenis>
     </ThemeProvider>
   );
+}
+"
+    }
+  ],
+  "rawPlan": "J'ai ajouté une section de formulaire de contact au bas de la page, juste avant le pied de page, pour permettre aux clients de saisir facilement leurs informations et de vous contacter directement."
 }
