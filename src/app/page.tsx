@@ -72,7 +72,7 @@ export default function LandingPage() {
         {
           text: "Obtenir ma démo gratuite",          href: "#contact"},
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/modern-creative-agency-hero-scene-featur-1777417881205-ca329e2c.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777470076438-cu9gnqft.png"
       avatars={[
         {
           src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/professional-portrait-of-a-local-busines-1777418016934-7900f877.png",          alt: "Client 1"},
