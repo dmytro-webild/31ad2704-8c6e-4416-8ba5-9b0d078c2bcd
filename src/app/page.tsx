@@ -103,16 +103,16 @@ export default function LandingPage() {
   <div id="problem" data-section="problem">
       <AboutMetric
       useInvertedBackground={false}
-      title="Ne perdez plus de clients potentiels"
+      title="Ne perdez plus de clients potentiels en ligne"
       metrics={[
         {
-          label: "Entreprises sans site web actuel",          value: "40%",          icon: AlertCircle,
+          label: "Entreprises locales sans site web actuel",          value: "40%",          icon: AlertCircle,
         },
         {
-          label: "Clients qui ne font plus confiance sans site",          value: "75%",          icon: Users,
+          label: "Clients qui perdent confiance sans présence numérique",          value: "75%",          icon: Users,
         },
         {
-          label: "Temps avant que le visiteur parte",          value: "3s",          icon: Clock,
+          label: "Secondes avant qu'un visiteur ne quitte votre page",          value: "3s",          icon: Clock,
         },
       ]}
       metricsAnimation="slide-up"
