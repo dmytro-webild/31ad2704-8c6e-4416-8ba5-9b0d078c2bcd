@@ -229,7 +229,7 @@ export default function LandingPage() {
         {
           id: "t2",          title: "Approche humaine",          quote: "Enfin une agence qui comprend les petits commerces locaux.",          name: "Thomas V.",          role: "Gérant",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777470899740-i5j8xq5z.png"},
         {
-          id: "t3",          title: "Résultats concrets",          quote: "Mes appels ont doublé en un mois. Incroyable travail.",          name: "Claire L.",          role: "Directrice",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777471539507-hyw29wee.png"},
+          id: "t3",          title: "Résultats concrets",          quote: "Mes appels ont doublé en un mois. Incroyable travail.",          name: "Thomas V ",          role: "Directrice",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777471539507-hyw29wee.png"},
         {
           id: "t4",          title: "Très efficace",          quote: "Professionnel, rapide, et abordable. Le combo parfait.",          name: "Claire L ",          role: "Atelier couture ",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777471707933-aee0f7v6.png"},
         {
