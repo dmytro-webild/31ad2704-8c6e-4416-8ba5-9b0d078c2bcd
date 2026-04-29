@@ -269,7 +269,7 @@ export default function LandingPage() {
       <FooterLogoEmphasis
       columns={[
         {
-          items: [
+          title: "Navigation",          items: [
             {
               label: "Accueil",              href: "#"},
             {
@@ -279,7 +279,7 @@ export default function LandingPage() {
           ],
         },
         {
-          items: [
+          title: "Légal",          items: [
             {
               label: "Privacy Policy",              href: "#"},
             {
@@ -293,9 +293,4 @@ export default function LandingPage() {
       </ReactLenis>
     </ThemeProvider>
   );
-}
-"
-    }
-  ],
-  "rawPlan": "J'ai ajouté une section de formulaire de contact au bas de la page, juste avant le pied de page, pour permettre aux clients de saisir facilement leurs informations et de vous contacter directement."
 }
