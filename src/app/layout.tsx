@@ -6,6 +6,7 @@ import "@/lib/gsap-setup";
 import { ServiceWrapper } from "@/components/ServiceWrapper";
 import { getVisualEditScript } from "@/utils/visual-edit-script";
 import { Source_Sans_3 } from "next/font/google";
+import { Poppins } from "next/font/google";
 
 
 
@@ -19,9 +20,11 @@ export const metadata: Metadata = {
   },
 };
 
-const sourceSans3 = Source_Sans_3({
-  variable: "--font-source-sans-3",
+
+const poppins = Poppins({
+  variable: "--font-poppins",
   subsets: ["latin"],
+  weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
 });
 
 export default function RootLayout({
@@ -32,7 +35,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <ServiceWrapper>
-        <body className={`${sourceSans3.variable} antialiased`}>
+        <body className={`${poppins.variable} antialiased`}>
           
           {children}
           <script
