@@ -208,10 +208,10 @@ export default function LandingPage() {
           id: "m1",          value: "100%",          title: "Accompagnement",          description: "Zéro stress technique.",          icon: Shield,
         },
         {
-          id: "m2",          value: "Rapide",          title: "Déploiement",          description: "Votre site est prêt en quelques jours.",          icon: Zap,
+          id: "m2",          value: "Vite ",          title: "Déploiement",          description: "Votre site est prêt en quelques jours.",          icon: Zap,
         },
         {
-          id: "m3",          value: "Axé ROI",          title: "Résultats",          description: "Nous visons la croissance.",          icon: TrendingUp,
+          id: "m3",          value: "Axé ",          title: "Résultats",          description: "Nous visons la croissance.",          icon: TrendingUp,
         },
       ]}
       title="Pourquoi choisir FVM ?"
@@ -225,7 +225,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       testimonials={[
         {
-          id: "t1",          title: "Service exceptionnel",          quote: "FVM a transformé ma visibilité. Je ne pourrais plus m'en passer.",          name: "Julie G.",          role: "Propriétaire",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/professional-portrait-of-a-local-busines-1777418016934-7900f877.png"},
+          id: "t1",          title: "Service exceptionnel",          quote: "FVM a transformé ma visibilité. Je ne pourrais plus m'en passer.",          name: "Julie G.",          role: "Propriétaire",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777470408328-qunwbu5s.png"},
         {
           id: "t2",          title: "Approche humaine",          quote: "Enfin une agence qui comprend les petits commerces locaux.",          name: "Thomas V.",          role: "Gérant",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/friendly-local-cafe-owner-looking-confid-1777418025122-ab83028a.png"},
         {
