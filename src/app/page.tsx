@@ -203,7 +203,7 @@ export default function LandingPage() {
       <ContactCenter
         tag="Contact"
         title="Contactez-nous"
-        description="Laissez-nous vos coordonnées pour que nous puissions vous recontacter."
+        description="Recevez votre audit gratuit et propulsez vos ventes"
         background={{ variant: "animated-grid" }}
         useInvertedBackground={false}
         onSubmit={(email) => console.log("Form submitted with:", email)}
