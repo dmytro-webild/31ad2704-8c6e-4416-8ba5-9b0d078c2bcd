@@ -106,13 +106,13 @@ export default function LandingPage() {
       title="Ne perdez plus de clients potentiels en ligne"
       metrics={[
         {
-          label: "Entreprises locales sans site web actuel",          value: "40%",          icon: AlertCircle,
+          label: "Entreprises locales sans site",          value: "40%",          icon: AlertCircle,
         },
         {
-          label: "Clients qui perdent confiance sans présence numérique",          value: "75%",          icon: Users,
+          label: "Clients qui perdent confiance",          value: "75%",          icon: Users,
         },
         {
-          label: "Secondes avant qu'un visiteur ne quitte votre page",          value: "3s",          icon: Clock,
+          label: "Secondes avant qu'un visiteur quitte ",          value: "3s",          icon: Clock,
         },
       ]}
       metricsAnimation="slide-up"
