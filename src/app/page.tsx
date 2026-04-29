@@ -180,17 +180,17 @@ export default function LandingPage() {
       useInvertedBackground={true}
       products={[
         {
-          id: "item1",          name: "Restaurant Gastronomique",          price: "En ligne",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/professional-local-restaurant-website-de-1777417963011-89255f1b.png"},
+          id: "item1",          name: "Restaurant Gastronomique",          price: "En ligne",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777468887237-isdxduuk.png"},
         {
-          id: "item2",          name: "Entrepreneur Construction",          price: "En ligne",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/modern-construction-company-website-inte-1777417971082-1dc46607.png"},
+          id: "item2",          name: "Entrepreneur Construction",          price: "En ligne",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777468549020-k44si2l3.png"},
         {
-          id: "item3",          name: "Salon Beauté Chic",          price: "En ligne",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/stylish-salon-and-spa-website-interface--1777417980532-70a97211.png"},
+          id: "item3",          name: "Salon Beauté Chic",          price: "En ligne",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777468446679-rcmrm4o7.png"},
         {
           id: "item4",          name: "Garage Automobile Moderne",          price: "En ligne",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777466977443-9siims7t.png"},
         {
-          id: "item5",          name: "Services Nettoyage",          price: "En ligne",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/modern-construction-company-website-inte-1777418000044-946537cd.png"},
+          id: "item5",          name: "Services Nettoyage",          price: "En ligne",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777468659732-oztnwqwi.png"},
         {
-          id: "item6",          name: "Cabinet Conseils",          price: "En ligne",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/stylish-salon-and-spa-website-interface--1777418009440-cc52e10a.png"},
+          id: "item6",          name: "Cabinet Conseils",          price: "En ligne",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777468160709-o6d1gu7i.png"},
       ]}
       title="Exemples de réalisations"
       description="Découvrez comment nous aidons nos clients à se démarquer dans leur secteur local, comme cet atelier automobile entièrement digitalisé."
