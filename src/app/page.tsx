@@ -38,7 +38,7 @@ export default function LandingPage() {
         { name: "Contact", id: "contact" },
       ]}
       brandName="FVM Créations"
-      button={{ text: "Obtenir ma démo gratuite", href: "#contact" }}
+      button={{ text: "Obtenir ma démo gratuite", onClick: () => window.location.href = "mailto:fvmcreations@icloud.com" }}
     />
   </div>
 
@@ -69,7 +69,7 @@ export default function LandingPage() {
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/local-service-store-owner-friendly-smile-1777417953402-af81d48e.png?_wi=1"
         }
       ]}
-      buttons={[{ text: "Obtenir ma démo gratuite", href: "#contact" }]}
+      buttons={[{ text: "Obtenir ma démo gratuite", onClick: () => window.location.href = "mailto:fvmcreations@icloud.com" }]}
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777470076438-cu9gnqft.png"
       avatars={[
         { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/professional-portrait-of-a-local-busines-1777418016934-7900f877.png", alt: "Client 1" },
