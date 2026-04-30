@@ -38,7 +38,7 @@ export default function LandingPage() {
         { name: "Contact", id: "contact" },
       ]}
       brandName="FVM Créations"
-      button={{ text: "Obtenir ma démo gratuite", href: "#contact-form" }}
+      button={{ text: "Commencer", href: "#contact-form" }}
     />
   </div>
 
@@ -69,7 +69,7 @@ export default function LandingPage() {
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/local-service-store-owner-friendly-smile-1777417953402-af81d48e.png?_wi=1"
         }
       ]}
-      buttons={[{ text: "Obtenir ma démo gratuite", href: "#contact-form" }]}
+      buttons={[{ text: "Commencer", href: "#contact-form" }]}
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777470076438-cu9gnqft.png"
       avatars={[
         { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/professional-portrait-of-a-local-busines-1777418016934-7900f877.png", alt: "Client 1" },
@@ -195,7 +195,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       background={{ variant: "rotated-rays-animated" }}
       text="Prêt à propulser votre entreprise locale ? Obtenez votre démo gratuite dès aujourd'hui."
-      buttons={[{ text: "Contactez-nous", href: "#contact-form" }]}
+      buttons={[{ text: "Commencer", href: "#contact-form" }]}
     />
   </div>
 
@@ -206,6 +206,7 @@ export default function LandingPage() {
         description="Recevez votre audit gratuit et propulsez vos ventes"
         background={{ variant: "animated-grid" }}
         useInvertedBackground={false}
+        buttonText="Commencer"
         onSubmit={(email) => console.log("Form submitted to fvmcreations@icloud.com:", email)}
       />
   </div>
