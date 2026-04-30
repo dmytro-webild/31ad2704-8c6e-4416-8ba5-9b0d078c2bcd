@@ -123,15 +123,15 @@ export default function LandingPage() {
       plans={[
         {
           id: "p1",          price: "Sur mesure",          name: "Création Complète",          features: ["Design moderne", "Optimisation SEO locale", "Mobile responsive", "Contact direct"],
-          buttons: [{ text: "Demander une consultation", href: "#contact" }]
+          buttons: [{ text: "Demander une consultation", href: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777561487364-sh5gy9tg.jpg" }]
         },
         {
           id: "p2",          price: "Sur mesure",          name: "Refonte Express",          features: ["Modernisation UI", "Vitesse optimisée", "Audit SEO rapide", "Support 30 jours"],
-          buttons: [{ text: "Demander une consultation", href: "#contact" }]
+          buttons: [{ text: "Demander une consultation", href: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777561487364-sh5gy9tg.jpg" }]
         },
         {
           id: "p3",          price: "Contactez-nous",          name: "Maintenance & Leads",          features: ["Gestion hébergement", "Mises à jour", "Suivi performances", "Stratégie leads"],
-          buttons: [{ text: "Demander une consultation", href: "#contact" }]
+          buttons: [{ text: "Demander une consultation", href: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3D01LklNGMnlvoqnbP78XCtO1fr/uploaded-1777561487364-sh5gy9tg.jpg" }]
         }
       ]}
       title="Nos services de création"
