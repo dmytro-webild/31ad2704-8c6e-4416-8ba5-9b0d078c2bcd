@@ -195,7 +195,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       background={{ variant: "rotated-rays-animated" }}
       text="Prêt à propulser votre entreprise locale ? Obtenez votre démo gratuite dès aujourd'hui."
-      buttons={[{ text: "Contactez-nous", href: "mailto:contact@fvmcreations.com" }]}
+      buttons={[{ text: "Contactez-nous", href: "mailto:fvmcreations@icloud.com" }]}
     />
   </div>
 
@@ -206,7 +206,7 @@ export default function LandingPage() {
         description="Recevez votre audit gratuit et propulsez vos ventes"
         background={{ variant: "animated-grid" }}
         useInvertedBackground={false}
-        onSubmit={(email) => console.log("Form submitted with:", email)}
+        onSubmit={(email) => console.log("Form submitted to fvmcreations@icloud.com:", email)}
       />
   </div>
 
