@@ -187,7 +187,7 @@ export default function LandingPage() {
       ]}
       title="Ils nous font confiance"
       description="Des partenaires locaux satisfaits par notre expertise web."
-      testimonialRatingClassName="text-yellow-500"
+      testimonialTitleClassName="text-yellow-500"
     />
   </div>
 
